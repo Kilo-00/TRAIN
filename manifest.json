@@ -1,0 +1,25 @@
+{
+  "name": "练记 · 家庭健身打卡",
+  "short_name": "练记",
+  "description": "专属家庭徒手训练计划、饮食补剂提醒与身体数据追踪",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0E11",
+  "theme_color": "#0B0E11",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
